@@ -13,3 +13,7 @@
 * The country with the highest infection rate compared to population was Andorra with a rate of 17.1%.
 * The US recorded the highest total number of COVID-19 deaths, with approximately 576,232 fatalities.
 * When ranked by death count per population, North America had the highest number of COVID-19 fatalities at approximately 576,232. South America followed with 403,781 deaths, then Asia with 211,853 deaths, Europe with 127,775 deaths, Africa with 54,350 deaths and finally Oceania with the lowest death count of 910.
+
+
+# Check out the <a href="https://public.tableau.com/app/profile/esi.tawiah.abbey/viz/COVID19Dashboard-DataExplorationUsingSQL/Dashboard1?publish=yes" target= "_blank" >Tableau</a> dashboard I created for visualisation of the insights and trends obtained from my analysis.
+<img width="1403" alt="COVID-19 Dashboard" src="https://user-images.githubusercontent.com/117233045/234252945-e2209740-8f76-4138-8489-f09c348178ba.png">
